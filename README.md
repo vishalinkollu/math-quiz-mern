@@ -6,7 +6,7 @@ A real-time multiplayer math quiz application where multiple users compete to so
 
  ## 🚀 Live Demo
 🌐 Frontend: https://math-quiz-mern.vercel.app/
-⚙️ Backend API: https://math-quiz-mern.onrender.com
+
 ---
 
 ## 📦 Tech Stack
